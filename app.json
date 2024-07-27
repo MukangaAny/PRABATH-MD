@@ -7,13 +7,13 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "263 78 539 6010.",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
-      "required": false
+      "description": "PRABATH-MD~2GJllTQR#Y1wAd24KxITREoawKOUSc6d_ib2enS57cq2wjwHV4ZQ.",
+      "required": true
     },  
 
 
